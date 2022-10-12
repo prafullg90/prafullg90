@@ -1,6 +1,6 @@
 *About Me*
 
-- A result-oriented professional with more than 6 years and 3 months of experience in JavaScript,
+- A result-oriented professional with more than 7 years and 3 months of experience in JavaScript,
 - React, Redux, React Native, Next Js, Node Js, jQuery, MySQL, CSS, and HTML5.
 - Strong proficiency in React.Js and its core principle.
 - Keen understanding of responsive design principles and cross browser compatibility issues.
