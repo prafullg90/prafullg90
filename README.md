@@ -1,27 +1,75 @@
-*About Me*
 
-- A result-oriented professional with more than 7 years and 3 months of experience in JavaScript,
-- React, Redux, React Native, Next Js, Node Js, jQuery, MySQL, CSS, and HTML5.
-- Strong proficiency in React.Js and its core principle.
-- Keen understanding of responsive design principles and cross browser compatibility issues.
-- Experienced in using Functional and Unit Testing methods.
-- Proven ability in improving operations, enhancing business growth by setting up infrastructure, project execution and service delivery.
-- Experience with Git and Git development workflows with CI/CD using circle CI.
-- Designed and implemented whole education ERP in React.Js and Node js.
-- Good knowledge working with API Integration, and Restful Services
-- Experience in responsive UI design, Knowledge of UI design patterns
-- Strong JavaScript skills, with experience developing web applications and a real passion for learning more.
-- Experience in managing software development teams including hands-on architectural or distributed systems experience.
-- Gained exposure in all the phases of software development life cycle (SDLC) entailing requirement analysis, design, development, implantation, delivery and troubleshooting.
+# 👋 Hi, I'm Prafullkumar Gaikwad  
 
-*IT SKILLS*
- - JavaScript, React Js, Redux, Next Js, React Native.
- - Node Js, Graph QL, express, Jest, React-testing-library.
- - MySQL, Mongo DB.
- - HTML, CSS, Bootstrap.
- - Git, GitHub, Docker, Kubernetes, AWS.
+[![Email Badge](https://img.shields.io/badge/Email-prafullg90@gmail.com-blue)](mailto:prafullg90@gmail.com)  
+📞 **+91 9579311101**  
 
-<!---
-prafullg90/prafullg90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 About Me  
+
+I'm a **JavaScript | React | Node.js Expert** with over 9 years of experience in building scalable, user-focused web and mobile applications. My expertise includes developing robust solutions using **React.js, Next.js, Node.js, and AWS**, and leading technical teams to success.  
+
+**Key Roles:**  
+- Technical Team Leader  
+- Solution Architect  
+- Scalable Solutions Specialist  
+
+---
+
+## 💻 Skills  
+
+### Programming  
+- **JavaScript**: React.js, Node.js, React Native, Next.js  
+- **PHP**  
+
+### Frontend  
+- HTML5, CSS3  
+
+### Backend & Database  
+- Node.js, GraphQL, MongoDB, MySQL  
+
+### DevOps & Cloud  
+- AWS, Docker, Kubernetes, CI/CD  
+
+### Testing Tools  
+- Jest, RTL, Cypress  
+
+---
+
+## 🌟 Experience  
+
+### Technical Team Leader  
+**Metta Social, Pune (Feb 2023 – Present)**  
+- Led frontend development teams with **React.js, Next.js, Node.js**.  
+- Designed scalable architectures and implemented **AWS CI/CD pipelines**.  
+- Mentored team members, conducted risk assessments, and ensured project alignment with business objectives.  
+
+### Senior Software Engineer  
+**NeoSoft Technologies, Pune (Jan 2019 – Feb 2023)**  
+- Built scalable web applications using **React.js, Redux, Next.js**.  
+- Improved project quality with robust testing, code reviews, and CI enhancements.  
+
+### Senior Web Application Developer  
+**Softerus Pvt Ltd, Pune (Jun 2016 – Dec 2018)**  
+- Developed mobile apps using **React Native**, created **PHP APIs**, and built websites.  
+- Participated in software design meetings and created work breakdown structures.  
+
+### Web Application Developer (Freelancer)  
+**(Jun 2015 – May 2016)**  
+- Developed websites using **Bootstrap** (frontend) and **PHP** (backend).  
+- Created SEO-friendly websites and collaborated on technical specifications.  
+
+---
+
+## 🎓 Education  
+
+- **Master of Computer Applications (MCA)**, Pune University (2014) – 65.42%  
+- **Bachelor of Computer Science (BCS)**, Marathwada University (2011) – 66.43%  
+
+---
+
+## 📈 GitHub Stats  
+
+![Prafullkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prafullg90&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prafullg90&layout=compact&theme=radical)  
