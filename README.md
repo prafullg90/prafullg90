@@ -85,7 +85,7 @@ Testing Tools:
 
 ## 🔗 Let's Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/prafull-gaikwad)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/prafull-gaikwad)  
 [![Email Me](https://img.shields.io/badge/Email-Me-blue)](mailto:prafullg90@gmail.com)  
 
 ---
