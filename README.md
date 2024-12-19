@@ -71,5 +71,5 @@ I'm a **JavaScript | React | Node.js Expert** with over 9 years of experience in
 
 ## 📈 GitHub Stats  
 
-![Prafullkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prafullmetta&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prafullmetta&layout=compact&theme=radical)  
+![Prafullkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prafull-metta&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prafull-metta&layout=compact&theme=radical)  
