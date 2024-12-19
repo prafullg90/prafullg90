@@ -2,7 +2,6 @@
 # 👋 Hi, I'm Prafullkumar Gaikwad  
 
 [![Email Badge](https://img.shields.io/badge/Email-prafullg90@gmail.com-blue)](mailto:prafullg90@gmail.com)  
-📞 **+91 9579311101**  
 
 ---
 
@@ -66,10 +65,3 @@ I'm a **JavaScript | React | Node.js Expert** with over 9 years of experience in
 
 - **Master of Computer Applications (MCA)**, Pune University (2014) – 65.42%  
 - **Bachelor of Computer Science (BCS)**, Marathwada University (2011) – 66.43%  
-
----
-
-## 📈 GitHub Stats  
-
-![Prafullkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prafull-metta&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prafull-metta&layout=compact&theme=radical)  
