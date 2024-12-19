@@ -1,24 +1,21 @@
-
 # 👋 Hi, I'm Prafullkumar Gaikwad  
 
-[![Email Badge](https://img.shields.io/badge/Email-prafullg90@gmail.com-blue)](mailto:prafullg90@gmail.com)  
+![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)  
 
-              
+💻 **JavaScript | React | Node.js Expert**  
+📧 [prafullg90@gmail.com](mailto:prafullg90@gmail.com) 
+
 ---
 
 ## 🚀 About Me  
 
-I'm a **JavaScript | React | Node.js Expert** with over 9 years of experience in building scalable, user-focused web and mobile applications. My expertise includes developing robust solutions using **React.js, Next.js, Node.js, and AWS**, and leading technical teams to success.  
-
-**Key Roles:**  
-- Technical Team Leader  
-- Solution Architect  
-- Scalable Solutions Specialist  
+I’m a seasoned **Technical Team Leader** and **Solution Architect** with over **9 years of experience** in web and mobile development. My forte lies in **React.js**, **Next.js**, **Node.js**, and **AWS** for building scalable, user-centric solutions.  
 
 ---
 
 ## 💻 Skills  
 
+```yaml
 Programming: 
   - JavaScript: 
       - React.js
@@ -46,36 +43,51 @@ Testing Tools:
   - Jest
   - RTL
   - Cypress
- 
+```
 
 ---
 
-## 🌟 Experience  
+## 📜 Experience  
 
-### Technical Team Leader  
-**Metta Social, Pune (Feb 2023 – Present)**  
-- Led frontend development teams with **React.js, Next.js, Node.js**.  
-- Designed scalable architectures and implemented **AWS CI/CD pipelines**.  
-- Mentored team members, conducted risk assessments, and ensured project alignment with business objectives.  
+<details>  
+<summary>**Technical Team Leader** – Metta Social (Feb 2023 – Present)</summary>  
+- Led teams to deliver innovative solutions using **React.js**, **Next.js**, and **AWS**.  
+- Architected scalable designs and CI/CD pipelines.  
+- Mentored developers and ensured alignment with business goals.  
+</details>  
 
-### Senior Software Engineer  
-**NeoSoft Technologies, Pune (Jan 2019 – Feb 2023)**  
-- Built scalable web applications using **React.js, Redux, Next.js**.  
-- Improved project quality with robust testing, code reviews, and CI enhancements.  
+<details>  
+<summary>**Senior Software Engineer** – NeoSoft Technologies (Jan 2019 – Feb 2023)</summary>  
+- Built modern web apps with **React.js**, **Redux**, and **Next.js**.  
+- Conducted code reviews and optimized project workflows.  
+</details>  
 
-### Senior Web Application Developer  
-**Softerus Pvt Ltd, Pune (Jun 2016 – Dec 2018)**  
-- Developed mobile apps using **React Native**, created **PHP APIs**, and built websites.  
-- Participated in software design meetings and created work breakdown structures.  
+<details>  
+<summary>**Senior Web App Developer** – Softerus Pvt Ltd (Jun 2016 – Dec 2018)</summary>  
+- Created mobile apps with **React Native** and PHP APIs.  
+- Designed architectures and optimized frontend and backend interactions.  
+</details>  
 
-### Web Application Developer (Freelancer)  
-**(Jun 2015 – May 2016)**  
-- Developed websites using **Bootstrap** (frontend) and **PHP** (backend).  
-- Created SEO-friendly websites and collaborated on technical specifications.  
+<details>  
+<summary>**Freelancer** – Web Application Developer (Jun 2015 – May 2016)</summary>  
+- Developed SEO-friendly websites with **Bootstrap** and **PHP**.  
+- Collaborated on technical specs and optimized site performance.  
+</details>  
 
 ---
 
 ## 🎓 Education  
 
-- **Master of Computer Applications (MCA)**, Pune University (2014)  
-- **Bachelor of Computer Science (BCS)**, Marathwada University (2011)
+- **MCA**, Pune University – 2014 
+- **BCS**, Marathwada University – 2011 
+
+---
+
+## 🔗 Let's Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/prafull-gaikwad)  
+[![Email Me](https://img.shields.io/badge/Email-Me-blue)](mailto:prafullg90@gmail.com)  
+
+---
+
+### ✨ Thank you for visiting my GitHub profile!  
