@@ -20,7 +20,6 @@ I'm a **JavaScript | React | Node.js Expert** with over 9 years of experience in
 
 ### Programming  
 - **JavaScript**: React.js, Node.js, React Native, Next.js  
-- **PHP**  
 
 ### Frontend  
 - HTML5, CSS3  
@@ -63,5 +62,5 @@ I'm a **JavaScript | React | Node.js Expert** with over 9 years of experience in
 
 ## 🎓 Education  
 
-- **Master of Computer Applications (MCA)**, Pune University (2014) – 65.42%  
-- **Bachelor of Computer Science (BCS)**, Marathwada University (2011) – 66.43%  
+- **Master of Computer Applications (MCA)**, Pune University (2014)  
+- **Bachelor of Computer Science (BCS)**, Marathwada University (2011)
