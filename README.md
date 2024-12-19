@@ -2,7 +2,8 @@
 # 👋 Hi, I'm Prafullkumar Gaikwad  
 
 [![Email Badge](https://img.shields.io/badge/Email-prafullg90@gmail.com-blue)](mailto:prafullg90@gmail.com)  
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="prafull-gaikwad" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/prafull-gaikwad?trk=profile-badge">Prafullkumar Gaikwad</a></div>
+              
 ---
 
 ## 🚀 About Me  
