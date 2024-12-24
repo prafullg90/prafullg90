@@ -3,7 +3,7 @@
 ![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)  
 
 💻 **JavaScript | React | Node.js Expert**  
-📧 [prafullg90@gmail.com](mailto:prafullg90@gmail.com) 
+📧 [prafullg90@gmail.com](mailto:prafull.code@gmail.com) 
 
 ---
 
