@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,nextjs,redux,express,mongodb,mysql,aws,html,css,graphql,jest,cypress,d3,apollo,firebase,bootstrap,npm,git,github,docker,kubernetes,webpack,atom,postman,vercel,vscode,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,nextjs,redux,express,mongodb,mysql,aws,html,css,graphql,jest,cypress,d3,apollo,firebase,bootstrap,npm,git,github,docker,kubernetes,webpack,atom,postman,vercel,vscode,discord)]
 
 ```yaml
 Programming Languages: 
