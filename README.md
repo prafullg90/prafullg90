@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prafullkumar Gaikwad  
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)  
+![Banner](./banner_github.png)  
 
 💻 **JavaScript | React | Node.js Expert**  
 📧 [prafull.code@gmail.com](mailto:prafull.code@gmail.com) 
