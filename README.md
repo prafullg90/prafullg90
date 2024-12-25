@@ -50,7 +50,7 @@ Testing Tools:
 ## 📜 Experience  
 
 <details>  
-<summary>Technical Team Leader – Metta Social (Feb 2023 – Present)</summary>  
+<summary>**Technical Team Leader – Metta Social (Feb 2023 – Present)**</summary>  
 - Led teams to deliver innovative solutions using React.js, Next.js, and AWS.  
 - Architected scalable designs and CI/CD pipelines.  
 - Mentored developers and ensured alignment with business goals.  
