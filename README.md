@@ -13,7 +13,6 @@
 
 👨‍💻 I’m a passionate **Technical Team Leader** and **Solution Architect** with **9+ years** of experience in building cutting-edge **web and mobile applications**.  
 🎯 My focus: delivering **scalable**, **high-performance**, and **cloud-native** solutions using **React.js**, **Next.js**, **Node.js**, and **AWS**.  
-
 ✨ I thrive in **mentoring teams**, optimizing workflows, and bridging the gap between **business goals** and **technology**.
 
 ---
