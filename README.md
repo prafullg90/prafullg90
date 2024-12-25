@@ -1,5 +1,5 @@
 
-# 🌟 Hi, I'm **Prafullkumar Gaikwad**  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Prafull%20Gaikwd%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=JavaScript%20%7C%20React%20%7C%20Node.js%20%7C%20AWS&descSize=20&descAlignY=55&descAlign=50)
 
 ![Banner](./banner_github.png)  
 
