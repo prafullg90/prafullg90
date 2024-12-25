@@ -86,8 +86,7 @@ Testing & QA:
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prafull-gaikwad)  
-[![Email](https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail)](mailto:prafullg90@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-blue?style=flat&logo=github)](https://github.com/your-portfolio-link)  
+[![Email](https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail)](mailto:prafull.code@gmail.com)  
 
 
 
