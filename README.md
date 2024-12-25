@@ -1,6 +1,4 @@
-Here’s an enhanced version of your GitHub README file with a more engaging layout and visual appeal:
 
-```markdown
 # 🌟 Hi, I'm **Prafullkumar Gaikwad**  
 
 ![Banner](./banner_github.png)  
@@ -91,14 +89,7 @@ Testing & QA:
 [![Email](https://img.shields.io/badge/Email-Me-blue?style=flat&logo=gmail)](mailto:prafullg90@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-blue?style=flat&logo=github)](https://github.com/your-portfolio-link)  
 
----
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrafullGaikwad&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrafullGaikwad&theme=radical" alt="GitHub Streak" width="45%">
-</p>
 
 ---
 
@@ -111,4 +102,4 @@ Testing & QA:
 ---
 
 ### ✨ Thanks for stopping by! Let’s build something amazing together.  
-```
+
