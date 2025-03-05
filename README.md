@@ -1,6 +1,7 @@
 
 # 🌟 Hi, I'm **Prafullkumar Gaikwad**  
 **Technical Team Leader | Full-Stack JavaScript Architect**
+
 📧 prafull.code@gmail.com 
 
 ![Banner](./banner_github.png)  
